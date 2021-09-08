@@ -62,7 +62,6 @@ company_name = st.selectbox('Select a company ', companies)
 types = {'Weekly':0, 'Monthly':1, 'Yearly':2}
 type_nm=st.selectbox('Range of plot you would like to see', types)
 Month = {'January': 0, 'February': 1, 'March': 2, 'April': 3, 'May': 4, 'June': 5, 'July': 6, 'August': 7, 'September': 8, 'October': 9, 'Novemeber': 10, 'December': 11}
-#giving user choice to select a company
 if type_nm=='Weekly':
         s=0
         month = st.selectbox('Select the month ', Month)
