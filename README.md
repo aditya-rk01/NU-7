@@ -12,7 +12,7 @@
 
 4. Open Command Prompt and change directry to the downloaded folder
 ![4](https://user-images.githubusercontent.com/68019168/132581209-67e6f97d-61fd-450c-81ed-0f1a72f8d164.PNG)
- 
+
 5. Run command "run.bat"
 ![5](https://user-images.githubusercontent.com/68019168/132581179-fa97946b-b402-40c4-8ebe-e5f81b87fbdb.PNG)
 
